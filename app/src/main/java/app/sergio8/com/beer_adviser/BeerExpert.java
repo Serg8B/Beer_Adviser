@@ -3,7 +3,7 @@ package app.sergio8.com.beer_adviser;
 import java.util.ArrayList;
 import java.util.List;
 
-public class BeerExpert1 {
+public class BeerExpert {
     List<String> getBrands(String color){
        List<String> brands = new ArrayList<String>();
        if (color.equals("amber")) {
