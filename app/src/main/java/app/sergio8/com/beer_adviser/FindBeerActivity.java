@@ -8,7 +8,7 @@ import android.widget.TextView;
 import java.util.List;
 
 public class FindBeerActivity extends Activity {
-    private BeerExpert1 expert = new BeerExpert1();
+    private BeerExpert expert = new BeerExpert();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
